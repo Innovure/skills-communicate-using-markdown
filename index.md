@@ -2,6 +2,7 @@
 normal text
 ## this is a header2
 normal text
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### this is a header3
 normal text
 #### this is a header4
